@@ -7,8 +7,8 @@ order: 1
 # Table de matière      
 - [Introduction](#introduction)
 - [Conclusion](#conclusion)
-- [Economie](#Economie)
-- [Industri](#Port et pêche maritime)
+- [Economie](#economie-de-safi)
+- [Industri](#port-et-pêche-maritime-de-safi)
    
 
 
