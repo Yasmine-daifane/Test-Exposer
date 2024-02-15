@@ -1,7 +1,7 @@
 ---
 layout: default
 chapitre: Introduction
-order: 1
+order: 2
 ---
 
 # Introduction
