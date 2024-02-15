@@ -8,7 +8,7 @@ order: 6
 
 
 
-!['la pêche maritime'](/Safi/Industri/images/port-Essaouira.jpg)*Figure 2: Port et pêche maritime*
+!['la pêche maritime'](/Test-Exposer/Industri/images/port-Essaouira.jpg)*Figure 2: Port et pêche maritime*
 
 
 

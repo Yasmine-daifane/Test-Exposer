@@ -8,7 +8,7 @@ order: 1
 
 
 
-!['introduction'](/Safi/1.Introduction/images/introduction.jpg)*Figure 1: Introduction*
+!['introduction'](/Test-Exposer/1.Introduction/images/introduction.jpg)*Figure 1: Introduction*
 
 <!-- note -->
 -  Safi, « cité de la mer»

@@ -8,7 +8,7 @@ order: 5
 
 
 
-!['la pêche maritime'](/Safi/Tourisme/images/Peche-petits-pelagiques.jpeg)*Figure 2: la pêche maritime*
+!['la pêche maritime'](/Test-Exposer/Tourisme/images/Peche-petits-pelagiques.jpeg)*Figure 2: la pêche maritime*
 
 
 
